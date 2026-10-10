@@ -37,25 +37,25 @@ DonusturX/
 Follow these steps to set up and run the project locally on your machine:
 
 1. **Clone the Repository:**
-   ```bash
+```bash
    git clone [https://github.com/KULLANICI_ADIN/DonusturX.git](https://github.com/KULLANICI_ADIN/DonusturX.git)
    cd DonusturX
-   ```
+```
 
 2. **Create and Activate a Virtual Environment:**
-   ```bash
+```bash
    python -m venv .venv
-   ```
+```
 
   # On Windows:
-  ```bash
+```bash
   .venv\Scripts\activate
-  ```
+```
 
   # On macOS / Linux:
-  ```bash
+```bash
   source .venv/bin/activate
-  ```
+```
 
 3. **Install Dependencies:**
 ```bash
@@ -63,9 +63,9 @@ pip install -r requirements.txt
 ```
 
 4. **Run the Application:**
-   ```bash
+```bash
    python main.py
-   ```
+```
 
    ## Technologies Used 🛠️
 
