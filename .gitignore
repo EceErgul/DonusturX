@@ -1,0 +1,25 @@
+# Sanal Ortam (Virtual Environment)
+.venv/
+venv/
+ENV/
+env/
+
+# Python Derlenmiş / Önbellek Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# VS Code Yerel Ayarları
+.vscode/
+.lock
+CACHEDIR.TAG
+
+# İşletim Sistemi Dosyaları (Örn: Mac için .DS_Store, Windows için Thumbs.db)
+.DS_Store
+Thumbs.db
+
+# Dağıtım / Paketleme Artıkları (İleride .exe yaparsan lazım olur)
+build/
+dist/
+*.spec
